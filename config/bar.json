@@ -1,0 +1,27 @@
+{
+  "position": "bottom",
+  "launcherIcon": "/home/bvd/Pictures/Figma/logo.svg",
+  "launcherIconTint": false,
+  "launcherIconFullTint": true,
+  "launcherIconSize": 24,
+  "pillStyle": "default",
+  "screenList": [],
+  "enableFirefoxPlayer": false,
+  "barColor": [
+    [
+      "surface",
+      0
+    ]
+  ],
+  "frameEnabled": true,
+  "frameThickness": 8,
+  "pinnedOnStartup": true,
+  "hoverToReveal": true,
+  "hoverRegionHeight": 8,
+  "showPinButton": true,
+  "availableOnFullscreen": true,
+  "use12hFormat": true,
+  "containBar": true,
+  "keepBarShadow": false,
+  "keepBarBorder": false
+}
